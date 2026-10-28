@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "PublicTelegramBot": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "TELEGRAM_BOT_TOKEN": "PASTE_TOKEN_HERE"
+      }
+    }
+  }
+}
